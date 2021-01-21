@@ -7,7 +7,4 @@ class Student < User
     def learn(this)
         knowledge << this
     end
-    # def learn 
-    #     knowledge << KNOWLEDGE
-    # end
 end
